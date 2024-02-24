@@ -18,7 +18,8 @@ I made a webscraper to return steams Top 100 played games at the moment.
 ```
 
 # Why?
-This project combines FastAPI and Playwright to scrape a website generated with Javascript. I wanted the data to be accessible from any device so the current project can be placed in a Docker Image.
+This project combines FastAPI and Playwright to scrape a website generated with Javascript. I wanted the data to be accessible from any device. Having the ability to run this in a docker container
+allows the user to run the Docker Image wherever they choose.
 
 # How
 This program scrapes data from <https://store.steampowered.com/charts/mostplayed>. 
