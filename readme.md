@@ -36,7 +36,7 @@ http://127.0.0.1:8000/top_games
 The full list of top 100 current steam games based off of the numbers of players will be disolayed in JSON within the browser.
 
 ## Cloud Potential
-My original goal with this was to see how playwright could be used in a Dockerfile which could then be pushed to a cloud service such as ASW, GCP, or in my case Digital Ocean.
+My original goal with this was to see how playwright could be used in a Dockerfile which could then be pushed to a cloud service such as AWS, GCP, or in my case Digital Ocean.
 
 Currently I am running a different version of this in a Digital Ocean Droplet.
 
